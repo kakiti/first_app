@@ -1,0 +1,2 @@
+class Poat < ApplicationRecord
+end
